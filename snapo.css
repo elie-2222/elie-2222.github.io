@@ -1,0 +1,106 @@
+body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+.heading {
+  width: 100%;
+  background-color: yellow;
+  display: flex;
+  position: fixed;
+  top: 0;
+  justify-content: flex-end;
+}
+
+.maino {
+  display: block;
+  padding-top: 100px;
+  font-family: "arial";
+}
+div {
+  text-align: center;
+}
+.logbtn {
+  background-color: black;
+  color: yellow;
+  border-radius: 50px;
+  width: 238px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10%;
+  margin-top: 15%;
+}
+.go {
+  display: flex;
+  padding-right: 10%;
+}
+p {
+  text-align: center;
+}
+.orr {
+  color: #bbbbbb;
+  padding-right: 3%;
+  font-weight: 400px;
+  margin-top: 10%;
+  margin-bottom: 8%;
+}
+.form-group {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: black;
+  width: 263px;
+}
+.lin {
+  display: flex;
+  justify-content: right;
+  font-size: 10px;
+}
+.bot {
+  background-color: #bbbbbb;
+  border: none;
+  color: white;
+  padding-right: 15%;
+  font-size: 18px;
+  font-weight: 400%;
+}
+a {
+  text-decoration-line: none;
+}
+.hyt {
+  text-decoration: black;
+  color: black;
+  font-weight: bold;
+}
+.logbtn2 {
+  background-color: #bbbbbb;
+  border-radius: 50px;
+  width: 238px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10%;
+  margin-top: 12%;
+}
+.lat {
+  font-size: 10px;
+  padding-top: 25px;
+}
+.tli {
+  font-size: 10px;
+  font-weight: 400px;
+  line-height: 11.73px;
+  margin-top: 8%;
+}
+.guo {
+  color: yellow;
+}
